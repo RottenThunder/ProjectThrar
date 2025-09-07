@@ -12,7 +12,7 @@ config_version=5
 
 config/name="ProjectThrar"
 run/main_scene="uid://dw1d75kftawcc"
-config/features=PackedStringArray("4.4", "Forward Plus")
+config/features=PackedStringArray("4.4", "C#", "Forward Plus")
 
 [dotnet]
 
